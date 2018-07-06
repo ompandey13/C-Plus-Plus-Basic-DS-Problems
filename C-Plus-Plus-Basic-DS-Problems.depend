@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1530874292 source:c:\users\om\desktop\sandbox\other\c-plus-plus-basic-ds-problems\test\insertion_sort_test.cpp
+	"../algo/insertion_sort.h"
+	"array_equals.h"
+	"minunit.h"
+	<stdio.h>
+
+1530872185 c:\users\om\desktop\sandbox\other\c-plus-plus-basic-ds-problems\algo\insertion_sort.h
+
+1530874178 c:\users\om\desktop\sandbox\other\c-plus-plus-basic-ds-problems\test\array_equals.h
+	<stdbool.h>
+
+1530872660 c:\users\om\desktop\sandbox\other\c-plus-plus-basic-ds-problems\test\minunit.h
+

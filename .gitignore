@@ -30,8 +30,3 @@
 *.exe
 *.out
 *.app
-
-# Others
-*.cbp
-*.layout
-*.depend
